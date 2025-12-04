@@ -2,7 +2,7 @@ POST http://localhost:3333/courses
 Content-Type: application/json
 
 {
-    "title": "Curso D"
+    "title": "Cur"
 }
 ###
 
@@ -10,7 +10,7 @@ GET http://localhost:3333/courses
 
 ###
 
-GET http://localhost:3333/courses/6d886729-6eb8-40d8-b274-49a09dbd545a
+GET http://localhost:3333/courses/40a4a435-0b2d-46ae-a4d99-3dc5f3b0165f
 
 
 
